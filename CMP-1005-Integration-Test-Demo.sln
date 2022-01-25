@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMP-1005-Integration-Test-Demo", "CMP-1005-Integration-Test-Demo\CMP-1005-Integration-Test-Demo.csproj", "{043D3C34-7EF1-4B03-9DD9-F891DE1A278D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043D3C34-7EF1-4B03-9DD9-F891DE1A278D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043D3C34-7EF1-4B03-9DD9-F891DE1A278D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043D3C34-7EF1-4B03-9DD9-F891DE1A278D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043D3C34-7EF1-4B03-9DD9-F891DE1A278D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A5896F0-AED8-42C2-925B-AF5AB97940E6}
+	EndGlobalSection
+EndGlobal
